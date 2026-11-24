@@ -9,7 +9,16 @@ Used plugins :
 
 To apply the theme copy files to **chrome** folder under your Firefox Profile folder.
 
+New screenhots after latest updates, will update files later : 
+<img width="3024" height="1894" alt="image" src="https://github.com/user-attachments/assets/f1e662c6-8928-4fe5-8f9d-9a6a2bf505d2" />
+
+<img width="3024" height="1894" alt="image" src="https://github.com/user-attachments/assets/a4e07648-4a88-4f9a-91d4-c9f4adac33c3" />
+
+<img width="3024" height="1898" alt="image" src="https://github.com/user-attachments/assets/7a5ad891-7deb-4acd-90b7-f63b1002ca76" />
+
 Screenshots : 
+
+
 <img width="3456" height="2166" alt="Screenshot 2026-10-26 at 22 19 47" src="https://github.com/user-attachments/assets/c179b5f0-ced1-4e6e-8cc2-2825ae695939" />
 <br/>
 <br/>
